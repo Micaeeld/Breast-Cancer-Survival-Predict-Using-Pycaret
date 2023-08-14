@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Breast Cancer Survival Notebook
 This notebook is a demonstration of how to perform a survival prediction of breast cancer patients using Kaggle's Breast Cancer Survival Dataset.
 
